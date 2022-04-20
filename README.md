@@ -7,7 +7,7 @@ Java solution for bind 75 list.
 217|存在重复元素|Array|✔
 238|除自身以外数组的乘积|Array|✔
 53|最大子数组和|Array|✔
-152|乘积最大子数组|Array
+152|乘积最大子数组|Array|✔
 153|寻找旋转排序数组中的最小值|Array
 33|搜索旋转排序数组|Array|✔
 15|三数之和|Array|✔
