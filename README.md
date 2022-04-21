@@ -75,5 +75,5 @@ Java solution for bind 75 list.
 208|实现 Trie (前缀树)|Tree
 211|添加与搜索单词 - 数据结构设计|Tree
 212|单词搜索 II|Tree
-347|前 K 个高频元素|Heap
+347|前 K 个高频元素|Heap|✔
 295|数据流的中位数|Heap
