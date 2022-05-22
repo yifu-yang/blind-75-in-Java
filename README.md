@@ -1,5 +1,8 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
+
+Solved：31/75
+
 #|question|tag|status
 -|-|-|-
 1|两数之和|Array|✔
