@@ -72,7 +72,7 @@ Java solution for bind 75 list.
 98|验证二叉搜索树|Tree
 230|二叉搜索树中第K小的元素|Tree
 235|二叉搜索树的最近公共祖先|Tree|✔
-208|实现 Trie (前缀树)|Tree
+208|实现 Trie (前缀树)|Tree|✔
 211|添加与搜索单词 - 数据结构设计|Tree
 212|单词搜索 II|Tree
 347|前 K 个高频元素|Heap|✔
