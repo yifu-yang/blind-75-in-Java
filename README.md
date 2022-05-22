@@ -18,7 +18,7 @@ Java solution for bind 75 list.
 268|丢失的数字|Binary|✔
 190|颠倒二进制位|Binary
 70|爬楼梯|Dynamic Programming|✔
-322|零钱兑换|Dynamic Programming
+322|零钱兑换|Dynamic Programming|✔
 300|最长递增子序列|Dynamic Programming|✔
 1143|最长公共子序列|Dynamic Programming
 139|单词拆分|Dynamic Programming
