@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：31/75
+Solved：33/75
 
 #|question|tag|status
 -|-|-|-
@@ -29,9 +29,9 @@ Solved：31/75
 198|打家劫舍|Dynamic Programming
 213|打家劫舍 II|Dynamic Programming
 91|解码方法|Dynamic Programming
-62|不同路径|Dynamic Programming
+62|不同路径|Dynamic Programming|✔
 55|跳跃游戏|Dynamic Programming
-133|克隆图|Graph
+133|克隆图|Graph|✔
 207|课程表|Graph
 417|太平洋大西洋水流问题|Graph
 200|岛屿数量|Graph
