@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：35/75
+Solved：36/75
 
 #|question|tag|status
 -|-|-|-
@@ -71,7 +71,7 @@ Solved：35/75
 102|二叉树的层序遍历|Tree|✔
 297|二叉树的序列化与反序列化|Tree
 572|另一棵树的子树|Tree|✔
-105|从前序与中序遍历序列构造二叉树|Tree
+105|从前序与中序遍历序列构造二叉树|Tree|✔
 98|验证二叉搜索树|Tree
 230|二叉搜索树中第K小的元素|Tree
 235|二叉搜索树的最近公共祖先|Tree|✔
