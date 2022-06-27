@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：36/75
+Solved：37/75
 
 #|question|tag|status
 -|-|-|-
@@ -59,7 +59,7 @@ Solved：36/75
 76|最小覆盖子串|String
 242|有效的字母异位词|String|✔
 49|字母异位词分组|String|✔
-20|有效的括号|String
+20|有效的括号|String|✔
 125|验证回文串|String|✔
 5|最长回文子串|String|✔
 647|回文子串|String
