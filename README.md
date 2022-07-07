@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：42/75
+Solved：43/75
 
 #|question|tag|status
 -|-|-|-
@@ -15,7 +15,7 @@ Solved：42/75
 33|搜索旋转排序数组|Array|✔
 15|三数之和|Array|✔
 11|盛最多水的容器|Array|✔
-371|两整数之和|Binary
+371|两整数之和|Binary|✔
 191|位1的个数|Binary|✔
 338|比特位计数|Binary
 268|丢失的数字|Binary|✔
