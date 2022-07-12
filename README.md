@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：44/75
+Solved：45/75
 
 #|question|tag|status
 -|-|-|-
@@ -62,7 +62,7 @@ Solved：44/75
 20|有效的括号|String|✔
 125|验证回文串|String|✔
 5|最长回文子串|String|✔
-647|回文子串|String
+647|回文子串|String|✔
 271|字符串的编码和解码|String
 104|二叉树的最大深度|Tree|✔
 100|相同的树|Tree|✔
