@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：49/75
+Solved：50/75
 
 #|question|tag|status
 -|-|-|-
@@ -19,7 +19,7 @@ Solved：49/75
 191|位1的个数|Binary|✔
 338|比特位计数|Binary|✔
 268|丢失的数字|Binary|✔
-190|颠倒二进制位|Binary
+190|颠倒二进制位|Binary|✔
 70|爬楼梯|Dynamic Programming|✔
 322|零钱兑换|Dynamic Programming|✔
 300|最长递增子序列|Dynamic Programming|✔
