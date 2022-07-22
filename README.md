@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：50/75
+Solved：51/75
 
 #|question|tag|status
 -|-|-|-
@@ -51,7 +51,7 @@ Solved：50/75
 19|删除链表的倒数第 N 个结点|Linked List|✔
 143|重排链表|Linked List|✔
 73|矩阵置零|Matrix|✔
-54|螺旋矩阵|Matrix
+54|螺旋矩阵|Matrix|✔
 48|旋转图像|Matrix|✔
 79|单词搜索|Matrix
 3|无重复字符的最长子串|String|✔
