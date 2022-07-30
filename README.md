@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：53/75
+Solved：54/75
 
 #|question|tag|status
 -|-|-|-
@@ -73,7 +73,7 @@ Solved：53/75
 572|另一棵树的子树|Tree|✔
 105|从前序与中序遍历序列构造二叉树|Tree|✔
 98|验证二叉搜索树|Tree|✔
-230|二叉搜索树中第K小的元素|Tree
+230|二叉搜索树中第K小的元素|Tree|✔
 235|二叉搜索树的最近公共祖先|Tree|✔
 208|实现 Trie (前缀树)|Tree|✔
 211|添加与搜索单词 - 数据结构设计|Tree
