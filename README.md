@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：54/75
+Solved：55/75
 
 #|question|tag|status
 -|-|-|-
@@ -67,7 +67,7 @@ Solved：54/75
 104|二叉树的最大深度|Tree|✔
 100|相同的树|Tree|✔
 226|翻转二叉树|Tree|✔
-124|二叉树中的最大路径和|Tree
+124|二叉树中的最大路径和|Tree|✔
 102|二叉树的层序遍历|Tree|✔
 297|二叉树的序列化与反序列化|Tree
 572|另一棵树的子树|Tree|✔
