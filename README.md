@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：55/75
+Solved：56/75
 
 #|question|tag|status
 -|-|-|-
@@ -41,7 +41,7 @@ Solved：55/75
 323|无向图中的连通分量的数目|Graph
 57|插入区间|Interval|✔
 56|合并区间|Interval|✔
-435|无重叠区间|Interval
+435|无重叠区间|Interval|✔
 252|会议室|Interval
 253|会议室Ⅱ|Interval
 206|反转链表|Linked List|✔
