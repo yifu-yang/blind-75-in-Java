@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：58/75
+Solved：59/75
 
 #|question|tag|status
 -|-|-|-
@@ -55,7 +55,7 @@ Solved：58/75
 48|旋转图像|Matrix|✔
 79|单词搜索|Matrix
 3|无重复字符的最长子串|String|✔
-424|替换后的最长重复字符|String
+424|替换后的最长重复字符|String|✔
 76|最小覆盖子串|String|✔
 242|有效的字母异位词|String|✔
 49|字母异位词分组|String|✔
