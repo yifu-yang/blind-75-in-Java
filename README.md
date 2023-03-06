@@ -25,10 +25,10 @@ Solved：59/75
 300|最长递增子序列|Dynamic Programming|✔
 1143|最长公共子序列|Dynamic Programming|✔
 139|单词拆分|Dynamic Programming
-39|组合总和|Dynamic Programming
+39|组合总和|Dynamic Programming|✔
 198|打家劫舍|Dynamic Programming|✔
 213|打家劫舍 II|Dynamic Programming|✔
-91|解码方法|Dynamic Programming
+91|解码方法|Dynamic Programming|✔
 62|不同路径|Dynamic Programming|✔
 55|跳跃游戏|Dynamic Programming|✔
 133|克隆图|Graph|✔
