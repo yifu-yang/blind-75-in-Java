@@ -1,7 +1,7 @@
 # blind-75-in-Java(updating)
 Java solution for bind 75 list.
 
-Solved：67/75
+Solved：71/75
 
 #|question|tag|status
 -|-|-|-
@@ -36,9 +36,9 @@ Solved：67/75
 417|太平洋大西洋水流问题|Graph|✔
 200|岛屿数量|Graph|✔
 128|最长连续序列|Graph|✔
-269|火星词典|Graph
-261|以图判树|Graph
-323|无向图中的连通分量的数目|Graph
+269|火星词典|Graph|✔
+261|以图判树|Graph|✔
+323|无向图中的连通分量的数目|Graph|✔
 57|插入区间|Interval|✔
 56|合并区间|Interval|✔
 435|无重叠区间|Interval|✔
@@ -63,7 +63,7 @@ Solved：67/75
 125|验证回文串|String|✔
 5|最长回文子串|String|✔
 647|回文子串|String|✔
-271|字符串的编码和解码|String
+271|字符串的编码和解码|String|✔
 104|二叉树的最大深度|Tree|✔
 100|相同的树|Tree|✔
 226|翻转二叉树|Tree|✔
