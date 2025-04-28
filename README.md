@@ -53,7 +53,7 @@ Solved：71/75
 73|矩阵置零|Matrix|✔
 54|螺旋矩阵|Matrix|✔
 48|旋转图像|Matrix|✔
-79|单词搜索|Matrix
+79|单词搜索|Matrix|✔
 3|无重复字符的最长子串|String|✔
 424|替换后的最长重复字符|String|✔
 76|最小覆盖子串|String|✔
